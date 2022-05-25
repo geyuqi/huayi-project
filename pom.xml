@@ -8,7 +8,7 @@
   <name>huayi-project Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <properties>
-		<spring>4.2.6.RELEASE</spring>
+		<spring>5.2.22.RELEASE</spring>
 		<json>2.2.2</json>
 		<mybatis>3.2.8</mybatis>
 		<mybatis-spring>1.2.2</mybatis-spring>
